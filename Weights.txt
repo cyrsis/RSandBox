@@ -1,0 +1,6 @@
+Weight.Height.Gender
+150.72.M
+.66.F
+210.68.
+164.74.F
+198..M
