@@ -1,2 +1,1 @@
-print(seq(1, 10, 2))
-
+print(lcheck <- require(ggplot2) & require(plotly) & require(ggvis))
