@@ -7,3 +7,4 @@
 .gitignore
 .idea/snapshots/
 .idea/workspace.xml
+.Rproj.user

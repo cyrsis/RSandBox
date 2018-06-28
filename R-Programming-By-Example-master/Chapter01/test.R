@@ -1,3 +1,4 @@
+load("tibble")#強化資料框的
 
 l1_norm <- function(x, y = 0) sum(abs(x - y))
 

@@ -1,6 +1,7 @@
 <component name="ProjectDictionaryState">
   <dictionary name="user">
     <words>
+      <w />
       <w>.</w>
       <w>...elt</w>
       <w>...length</w>
@@ -4344,6 +4345,7 @@
       <w>content_type</w>
       <w>content_type_json</w>
       <w>content_type_xml</w>
+      <w>continent_colors</w>
       <w>continuous_scale</w>
       <w>contour</w>
       <w>contour.default</w>
@@ -4452,6 +4454,8 @@
       <w>count.pairwise</w>
       <w>count_</w>
       <w>count_fields</w>
+      <w>country_codes</w>
+      <w>country_colors</w>
       <w>county.fips</w>
       <w>countyMapEnv</w>
       <w>couple</w>
@@ -5847,6 +5851,8 @@
       <w>gamma</w>
       <w>gamma.dispersion</w>
       <w>gamma.shape</w>
+      <w>gapminder</w>
+      <w>gapminder_unfiltered</w>
       <w>gapply</w>
       <w>gather</w>
       <w>gather_</w>

@@ -1,5 +1,6 @@
 # Let's revisit some information on boolean, or logical, objects.
 boo<-c(T,F,T,T,F,T)
+
 # Converts T to 1 and F to 0. 
 as.numeric(boo)
 
