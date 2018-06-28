@@ -4,3 +4,5 @@ averageHigh<-c(54,52,37.9)
 contUS<-c(T,T,F)
 
 city_data<-data.frame(cities,population,averageHigh,contUS)
+
+print(city_data)

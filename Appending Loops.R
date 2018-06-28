@@ -3,6 +3,7 @@ for (n in 1:1000) {
   print(m)
 }
 
+
 means<-NULL
 for (n in 1:1000) {
   m <- mean(rnorm(100))
